@@ -1,19 +1,19 @@
-# Gf-Naive
+## Gf-Naive Server
 
-Front end template [github](https://github.com/clgwxg/gf-naive-template)
+Using golang, goframe, gf and other technology stack developed management system server side
 
-Framework used [Goframe](https://github.com/gogf/gf)
 
-## 环境依赖
 
-` go 1.22.0`
+# Documentation
 
-`mysql 8.0.0`
-
-`gf v2.6.4`
+[文档地址](https://clgwxg.github.io/server/)
 
 
 
 
 
- 
+## front end code
+
+
+
+ [fornt github](https://github.com/clgwxg/gf-naive-template)
